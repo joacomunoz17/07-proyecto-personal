@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Faster+One&family=Libre+Barcode+39+Text&family=New+Rocker&display=swap');
+
+header{
+    background-color: #FF00FF;
+    text-align: center;
+}
+h3{
+    color: black;
+    font-family: 'New Rocker', cursive;
+}
+div{
+    background-color: #FF00FF;
+    text-align: center;
+}
+main{
+    background-color: black;
+}
+h1{
+    background-color: #6BFFF2;
+}
+html{
+    background-color: black;
+}
+.container img{
+    width: 30%;
+}
