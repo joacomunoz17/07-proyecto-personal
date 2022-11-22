@@ -24,3 +24,17 @@ html{
 .container img{
     width: 30%;
 }
+
+.nav-link .imagenredes{
+    width: 25px;
+    margin: 10px;
+}
+img{
+    width: 30px;
+    margin: 10px;
+}
+
+.col .logo{
+    width: 100px;
+    margin: 10px;
+}
